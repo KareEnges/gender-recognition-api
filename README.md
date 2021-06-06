@@ -3,10 +3,11 @@
 
 
 
-#### 安装教程
+#### 使用教程
 
 1.  运行api.py，前提是有下载net.pkl
 2.  如需自己训练，操作与[我这个工程](https://gitee.com/KareEnges/pytorch-CNN-SBATM)相同，pkl是训练好的
+3.  启动后访问127.0.0.1:5000
 
 
 #### 目录说明
